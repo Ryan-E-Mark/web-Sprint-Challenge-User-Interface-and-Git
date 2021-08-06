@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-    Semantic HTML is 
+    Semantic HTML is the correct use of tags and elements that accurately convey what their purpose is. Such that when the tags are read, you understand the structure of the page and what they are representing.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
